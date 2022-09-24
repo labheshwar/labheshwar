@@ -1,11 +1,12 @@
 # Hi there, I'm Labheshwar 👋 
 
-## I'm a Student, Coder, and Blogger!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn MERN Stack at fullest
-- ⚡ Fun fact: I actually like Assembly
+- 👨‍🎓 3rd Year Undergraduate Computer Science Student
+- 🧑‍💻 MERN Stack Developer
+- 🤓 Git/GitHub pro user
+- ⭐ 5 Star HackerRank Problem Solver
+- 🎭 Former GDSC Ambassador 
+- 📄 Part time blogger and educator
+- 🔭 Love talking about Astronomy and Astrophysics
 
 ### Connect with me:
 
