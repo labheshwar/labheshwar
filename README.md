@@ -52,8 +52,8 @@
 
 ---
 <p align="center">
+    <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labheshwar&theme=radical&column=7&no-frame=true&&margin-w=15" alt="labheshwar's trophies" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=labheshwar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labheshwar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshwar&layout=compact&&count_private=true&theme=radical&show_icons=true" />
-  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labheshwar&theme=radical&column=4&no-frame=true&&margin-w=15&margin-h=8" alt="labheshwar's trophies" />
 </p>
