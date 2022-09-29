@@ -1,7 +1,7 @@
 # Hi there, I'm Labheshwar 👋 
 
 - 👨‍🎓 3rd Year Undergraduate Computer Science Student
-- 🧑‍💻 MERN Stack Developer
+- 💻 MERN Stack Developer
 - 🤓 Git/GitHub pro user
 - ⭐ 5 Star HackerRank Problem Solver
 - 🎭 Former GDSC Ambassador 
