@@ -57,3 +57,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labheshwar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshwar&layout=compact&&count_private=true&theme=radical&show_icons=true" />
 </p>
+    
+### Holopin Badges:
+[![@labheshwar's Holopin board](https://holopin.io/api/user/board?user=labheshwar)](https://holopin.io/@labheshwar)
+
