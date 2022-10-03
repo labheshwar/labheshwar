@@ -3,7 +3,7 @@
 - 👨‍🎓 3rd Year Undergraduate Computer Science Student
 - 💻 MERN Stack Developer
 - 🤓 Git/GitHub pro user
-- ⭐ 5 Star HackerRank Problem Solver
+- ⭐ 6 Star HackerRank Problem Solver
 - 🎭 Former GDSC Ambassador 
 - 📄 Part time blogger and educator
 - 🔭 Love talking about Astronomy and Astrophysics
