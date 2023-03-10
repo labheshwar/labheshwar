@@ -1,12 +1,11 @@
 # Hi there, I'm Labheshwar 👋 
 
-- 👨‍🎓 3rd Year Undergraduate Computer Science Student
+- 👨‍🎓 4th Year Undergraduate Computer Science Student
 - 💻 MERN Stack Developer
-- 🤓 Git/GitHub pro user
 - ⭐ 6 Star HackerRank Problem Solver
 - 🎭 Former GDSC Ambassador 
 - 📄 Part time blogger and educator
-- 🔭 Love talking about Astronomy and Astrophysics
+- 🔭 Additionaly, Love talking about Astronomy and Astrophysics
 
 ### Connect with me:
 
