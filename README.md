@@ -1,8 +1,8 @@
 # Hi there, I'm Labheshwar! 👋 
 
-- 👩‍💻 Frontend Developer
+- 👩‍💻 Software Engineer
 - 👨‍🎓 4th Year Undergraduate Computer Science Student
-- 💻 MERN Stack Developer
+- 💻 Full Stack Developer
 - ⭐ 6 Star HackerRank Problem Solver
 - 🎭 Former GDSC Ambassador 
 - 📄 Part-time Blogger and Educator
