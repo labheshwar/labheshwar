@@ -1,10 +1,9 @@
 # Hi there, I'm Labheshwar! 👋 
 
-- 👩‍💻 Software Engineer
-- 👨‍🎓 4th Year Undergraduate Computer Science Student
+- 👩‍💻 Associate Software Engineer
+- 👨‍🎓 Eager to learn
 - 💻 Full Stack Developer
-- ⭐ 6 Star HackerRank Problem Solver
-- 🎭 Former GDSC Ambassador 
+- ⭐ 6-star HackerRank Problem Solver
 - 📄 Part-time Blogger and Educator
 - 🔭 Additionally, I love talking about Astronomy and Astrophysics
 
