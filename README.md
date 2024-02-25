@@ -1,77 +1,36 @@
 # Hi there, I'm Labheshwar! 👋 
 
-- 👩‍💻 Associate Software Engineer
-- 👨‍🎓 Eager to learn
-- 💻 Full Stack Developer
-- ⭐ 6-star HackerRank Problem Solver
-- 📄 Part-time Blogger and Educator
-- 🔭 Additionally, I love talking about Astronomy and Astrophysics
+## 💫 About Me:
+👩‍💻 Associate Software Engineer<br>👨‍🎓 JavaScript Developer<br>⭐ 6-star HackerRank Problem Solver<br>📄 Blogger<br>🌟 Passionate about Open Source<br>🎨 Creative Coder<br>🔭 Astronomy and Astrophysics Enthusiast<br>
 
-## Connect with me:
-
-[![website](./img/globe-light.svg)](https://labheshwar.netlify.app/)
-[![website](./img/globe-dark.svg)](https://labheshwar.netlify.app/)
-&nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/labesh_mania)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/labesh_mania)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/labheshwar)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/labheshwar)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/labesh.json/)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/labesh.json/)
-
-## Languages and Tools:
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />](https://redux.js.org/)
-[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/en/)
-[<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px; filter: invert(100)" />](https://www.npmjs.com/package/express)
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
-[<img align="left" alt="JQuery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />](https://jquery.com/)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-
-<br />
-<br />
-
----
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How JavaScript Works?](https://theslimcoder.com/2022/02/%e2%9c%8d-how-javascript-works/)
-- [CSS Shorthand Properties](https://theslimcoder.com/2022/01/%e2%9c%8d%ef%b8%8f-css-shorthand-properties/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 👨‍💻 About Me:
-
-I'm a passionate and enthusiastic 4th Year Undergraduate Computer Science student with a focus on Full Stack Web Development. I have a strong foundation in MERN (MongoDB, Express.js, React.js, Node.js) Stack and enjoy building web applications that are both functional and visually appealing. I have experience working with modern front-end frameworks like React and using state management tools such as Redux. On the backend, I'm skilled in developing RESTful APIs using Express.js and connecting to MongoDB databases. I'm also proficient in HTML5, CSS3, and JavaScript, and have a good understanding of responsive web design principles.
-
-As a lifelong learner, I enjoy exploring new technologies and keeping up with the latest industry trends. I'm constantly seeking opportunities to expand my skill set and take on new challenges. In addition to my technical skills, I possess strong problem-solving abilities and a keen eye for detail, which allows me to deliver high-quality code and exceptional user experiences.
+I'm a passionate and enthusiastic Computer Science Graduate with a focus on building highly scalable web applications. I have a strong foundation in building web applications that are both functional and visually appealing. As a lifelong learner, I enjoy exploring new technologies and keeping up with the latest industry trends. I'm constantly seeking opportunities to expand my skill set and take on new challenges. In addition to my technical skills, I possess strong problem-solving abilities and a keen eye for detail, which allows me to deliver high-quality code and exceptional user experiences.
 
 I'm a firm believer in the power of collaboration and enjoy working in a team environment to bring ideas to life. I thrive on learning from others and contributing to the success of a project. I'm also passionate about sharing my knowledge and experiences through blogging and teaching, as I believe in the importance of giving back to the tech community.
 
-If you're looking for a dedicated and motivated developer to join your team or collaborate on an exciting project, I'd love to connect with you!
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/labesh.json) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/labesh.json) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/labheshwar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/labesh_mania) 
 
+Visit my portfolio to see my work and projects in detail: [labheshwar.netlify.app](https://labheshwar.netlify.app)
+
+## 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
+## 📕 Latest Blog Posts
+
+- [How JavaScript Works?](https://theslimcoder.com/2022/02/%e2%9c%8d-how-javascript-works/)
+- [CSS Shorthand Properties](https://theslimcoder.com/2022/01/%e2%9c%8d%ef%b8%8f-css-shorthand-properties/)
+---
+## 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labheshwar&theme=radical&column=7&no-frame=true&&margin-w=15" alt="labheshwar's trophies" /></a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=labheshwar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labheshwar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshwar&layout=compact&&count_private=true&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=labheshwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labheshwar&theme=dark&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=labheshwar&limit=6&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-<br />
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=labheshwar&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 🏆 Holopin Badges:
+## 🏆 Holopin Badges:
 
 [![Holopin Board](https://holopin.io/api/user/board?user=labheshwar)](https://holopin.io/@labheshwar)
-
-![snake gif](https://github.com/labheshwar/labheshwar/blob/output/github-contribution-grid-snake.gif)
