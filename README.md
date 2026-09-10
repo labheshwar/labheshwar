@@ -19,17 +19,6 @@ Visit my portfolio to see my work and projects in detail: [labheshwar.netlify.ap
 
 - [How JavaScript Works?](https://theslimcoder.com/2022/02/%e2%9c%8d-how-javascript-works/)
 - [CSS Shorthand Properties](https://theslimcoder.com/2022/01/%e2%9c%8d%ef%b8%8f-css-shorthand-properties/)
----
-## 📊 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=labheshwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=labheshwar&theme=dark&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labheshwar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=labheshwar&limit=6&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=labheshwar&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 Holopin Badges:
 
